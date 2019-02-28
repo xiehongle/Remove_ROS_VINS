@@ -1,3 +1,7 @@
+
+参考博客：
+https://blog.csdn.net/weixin_43922139/article/details/86005766#3Local_VisualInertia_BA_and_Relocalization_21
+
 # This  repositories is a version of HKUST-Aerial-Robotics/VINS-Mono without ROS mechanism. The project can be passed on the euroc dataset so far. [EuRoc](http://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets) ASL data format, this version can run both on 32bit OS and 64 bit OS platform.
 
 # thanks to the reference program： 
